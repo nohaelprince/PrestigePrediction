@@ -4,16 +4,16 @@
 
 The Prestige dataset analysed in this report has been taken from the library ‘car’ in R. This dataset has 102 observations and 6 attributes. The observations are the Canadian occupations. 
 
-Out of the 6 attributes, one attribute namely :
-‘type’ representing the type of occupation.
-‘education’ representing average education of occupational incumbents
-‘income’ which represents average income of incumbents
-‘prestige’ is the response variable which represents the prestige score for occupation.
+Out of the 6 attributes, 4 attributes have been selected namely :
+- ‘type’ representing the type of occupation.
+- ‘education’ representing average education of occupational incumbents
+- ‘income’ which represents average income of incumbents
+- ‘prestige’ is the desired outcome which represents the prestige score for occupation.
 
 ### Objective
 
 This project aims to create a linear model to predict **prestige** given the
-type, education and income.
+following predictors: type, education and income.
 
 ### Input/Output
 - First the user should enter 3 values (education, income and type) from the left side panel and press the Predict! button.
