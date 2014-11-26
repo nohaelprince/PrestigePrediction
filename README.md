@@ -24,5 +24,6 @@ following predictors: type, education and income.
 
 ### Interactivity
 - If the user changes any of the inputs, the changes are reflected automatically at the output.
-  
+- To run the application, go to <https://nohaelprince.shinyapps.io/prestige/>
+- The application presentation can be found in <http://rpubs.com/nohaelprince/45476> 
 
